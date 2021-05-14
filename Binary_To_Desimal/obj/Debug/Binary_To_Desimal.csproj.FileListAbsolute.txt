@@ -1,0 +1,14 @@
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\bin\Debug\Binary_To_Desimal.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\bin\Debug\Binary_To_Desimal.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\bin\Debug\Binary_To_Desimal.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\obj\Debug\Binary_To_Desimal.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\obj\Debug\Binary_To_Desimal.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\obj\Debug\Binary_To_Desimal.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\obj\Debug\Binary_To_Desimal.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\bin\Debug\Binary_To_Desimal.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\bin\Debug\Binary_To_Desimal.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\bin\Debug\Binary_To_Desimal.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\obj\Debug\Binary_To_Desimal.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\obj\Debug\Binary_To_Desimal.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\obj\Debug\Binary_To_Desimal.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Binary_To_Desimal\Binary_To_Desimal\obj\Debug\Binary_To_Desimal.pdb
